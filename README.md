@@ -7,7 +7,7 @@
 <div align="center"><strong>¡Bienvenido a mi repositorio académico!</strong> Este espacio documenta mi trayectoria durante el trimestre, donde guardare todos mis ejercicios, prácticas y proyectos desarrollados en la materia de <strong>Programación 2.</strong><img src="https://files.catbox.moe/4lkna1.gif"></div>
 
 <div><img src= "https://files.catbox.moe/wsnh9p.gif" bottom="300"><img src= "assets/91_sin_titulo_202601282018141.png" width="100"></div>
-<img src="https://files.catbox.moe/oq1tho.gif"><strong> Formación Académica: </strong><img src="https://files.catbox.moe/aj0cqr.gif">
+<img src="https://files.catbox.moe/oq1tho.gif"><strong>Formación Académica:</strong><img src="https://files.catbox.moe/aj0cqr.gif">
 
 - **Bachillerato:** Unidad Educativa Colegio Mater Salvatoris.
 - **Actualmente:** 4to trimestre de Ingeniería en la URU.
