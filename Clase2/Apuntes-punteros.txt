@@ -1,0 +1,46 @@
+Punteros:
+- Punteros Introduccion:
+Un puntero es una variable especial, que almacena la direccion de memoria de una variable.
+- Su valor es la direccion de la variable.
+int n=42;
+int *ptr=&n;
+
+- Operadores de Punteros:
+-
+int z=500 
+cout << *(&z) - imprime
+(FOTO DE LA PIZARRA)
+
+- Paso por referencia:
+void incrementar (int x){
+    x=x+1;
+}
+int z=2;
+incrementar(z);
+cout << z;
+Cuando enviamos un parametro a una funcion declaras un valor
+
+- Por que usar punteros?
+Struct libro {
+    string autor;
+    string titulo;
+    int cantPag;
+    int precio;
+    int editorial[]
+    int edicion;
+    int fotmato;
+}
+- Los punteros se utilizan para optimizar el programa,
+sobre todo cuando son cantidades grandes de datos
+ Create
+ Read
+ Update
+ Delete
+
+
+- Memoria Dinamica:
+- Punteros con arreglos:
+- Punteros con estructuras:
+- Punteros a funciones:
+- Deep clone vs shallow clone:
+
