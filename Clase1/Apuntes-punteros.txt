@@ -38,9 +38,33 @@ sobre todo cuando son cantidades grandes de datos
  Delete
 
 
-- Memoria Dinamica:
+- Memoria Dinamica: la memoria dinamica se libera,
+mientras que la estatica se almacena y no se puede liberar.
+
+Stack: 1-8 megas, tamano fijo, se genera en tiempo de compilacion
+
+Heap: memoria grande qu enos permite acceder a la memoria RAM, se accede de manera dimanica
+
+
+
 - Punteros con arreglos:
+Redimensionamientos de Arreglos
+
+int *x = new int [5]
+int *g = new int [10]
+for (int i=0; i < 5; i++){
+    y[i] = x[i]
+}
+delete[] x;
+x=nullptr;
+
 - Punteros con estructuras:
+Acceso a miembros: dos notaciones
+
+
 - Punteros a funciones:
+callback: una funcion que se envia como argumento a otra funcion.
+
+
 - Deep clone vs shallow clone:
 
